@@ -142,9 +142,9 @@ Check out the live version:
 
 ## 👨‍💻 Author
 
-**Jitesh Bhakat**  
-GitHub: [@Jitesh8260](https://github.com/Jitesh8260)  
-LinkedIn: [Jitesh Kumar](https://www.linkedin.com/in/jitesh-kumar-2521b7249/)
+**Tejas Khaire**  
+GitHub:(https://github.com/TejasKhaire11)  
+LinkedIn: [Tejas Khaire] (https://www.linkedin.com/in/tejas-khaire-168b61276)
 
 ---
 
